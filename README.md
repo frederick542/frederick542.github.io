@@ -1,4 +1,4 @@
-# Personal Portfolio Website ![Logo](path/to/your/logo.png)
+# Personal Portfolio Website
 
 Welcome to my personal portfolio website! This site showcases my projects, skills, and experiences as a Computer Science student.
 
