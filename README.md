@@ -13,9 +13,9 @@ My name is Frederick Chandra, and I am currently studying Computer Science at Bi
 
 ## Projects
 Here are some of the key projects I have worked on:
-- **Automatic Parking System**: Developed a FastAPI application that integrates YOLOv8 for license plate detection. [Link to Project Repository](https://github.com/frederick542/Paperless-Parking-Plate-Recognition)
-- **LLM Project**: Created a question-and-answer application using a lightweight model for Indonesian legal cases. [Link to Project Repository](https://github.com/axelkrnwn/Web-Prog)
-- **Binder**: A dating application tailored for Binus students that prioritizes partner backgrounds. [Link to Project Repository](https://github.com/Ulveen/Binder)
+- **Automatic Parking System**: Developed a FastAPI application that integrates YOLOv8 for license plate detection. [Link](https://github.com/frederick542/Paperless-Parking-Plate-Recognition)
+- **LLM Project**: Created a question-and-answer application using a lightweight model for Indonesian legal cases. [Link](https://github.com/axelkrnwn/Web-Prog)
+- **Binder**: A dating application tailored for Binus students that prioritizes partner backgrounds. [Link](https://github.com/Ulveen/Binder)
 
 ## Skills
 - **Programming Languages**: JavaScript, C++, SQL
@@ -26,7 +26,7 @@ Here are some of the key projects I have worked on:
 ## Contact
 I would love to connect! Feel free to reach out to me at:
 - **Email**: frederickchandra53@gmail.com
-- **LinkedIn**: [Link to LinkedIn Profile](https://www.linkedin.com/in/frederick-chandra-9690b7246/)
-- **GitHub**: [Link to GitHub Profile](https://github.com/frederick542)
+- **LinkedIn**: [Frederick Chandra](https://www.linkedin.com/in/frederick-chandra-9690b7246/)
+- **GitHub**: [frederick542](https://github.com/frederick542)
 
 Thank you for visiting my portfolio website!
