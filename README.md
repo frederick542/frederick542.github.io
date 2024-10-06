@@ -25,7 +25,7 @@ Here are some of the key projects I have worked on:
 
 ## Contact
 I would love to connect! Feel free to reach out to me at:
-- **Email**: frederickchandra53@gmail.com
+- **Email**: frederickchandra52@gmail.com
 - **LinkedIn**: [Frederick Chandra](https://www.linkedin.com/in/frederick-chandra-9690b7246/)
 - **GitHub**: [frederick542](https://github.com/frederick542)
 
